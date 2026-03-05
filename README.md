@@ -109,8 +109,9 @@ Text prompt → production iOS & Android app. Backend, database, and UI generate
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=viralcode&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=a855f7&text_color=c9d1d9&title_color=58a6ff&hide_border=false&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralcode&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&hide_border=false&langs_count=6" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=viralcode&theme=dark&background=0d1117&border=30363d&stroke=a855f7&ring=58a6ff&fire=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=viralcode&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
