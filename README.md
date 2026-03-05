@@ -17,7 +17,7 @@ I build things that probably shouldn't exist yet. AI operating systems, self-ext
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Open Source
 
 <table>
 <tr>
@@ -66,11 +66,45 @@ An AI OS powered by OpenWhale. Glassmorphic QML shell, agentic MCP loop, native 
 
 Text prompt → production iOS & Android app. Backend, database, and UI generated in one shot. 1,000+ developers on waitlist.
 
-`React Native` `AI` `Expo` `Full-Stack`
+`React Native` `AI` `Expo` `Node.js`
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🏢 Ventures
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 📱 **[Area30](https://area30.app)** | Turn text prompts into native iOS & Android apps. One-shot generation of backend, database, and UI. | 🟢 Waitlist Open |
+| 💻 **[Syntax8](https://syntax8.com)** | Building software the way it should be built: clear, clean, and without drama. Custom apps and AI features for business growth. | 🟢 Active |
+| 📡 **[SocialSignal AI](https://socialsignalai.com)** | AI social intelligence that turns conversations into leads. Scaled to 100+ customers in 60 days. 300+ Product Hunt followers. | 🟢 Active |
+| ✉️ **[MyWavelength](https://mywavelength.email)** | The future of email, supercharged by AI. Built for Gmail users who want a smarter, cleaner inbox. | 🟢 Active |
+| 🔐 **[Pastezen](https://pastezen.com)** | Share code and text securely. E2E encryption, no character limits, real-time collaboration. | 🟢 Active |
+| 🔍 **LvlUp Ventures** | Senior Venture Scout. Sourcing early-stage startups for top-tier VCs and investors. | 🟢 2025 |
+
+---
+
+## 💼 Experience
+
+```
+PRESENT  │ Founder                     │ Area30
+         │   Turning text into apps. One-shot generation of full-stack iOS & Android apps.
+─────────┼─────────────────────────────┼──────────────────────────────────────
+2025     │ Software Engineer (Contract)│ Auth0 / Okta
+         │   Infrastructure and authentication on the world-famous Auth0 platform.
+─────────┼─────────────────────────────┼──────────────────────────────────────
+2023–25  │ Software Contractor         │ informXR
+         │   Developed iXRLibForWebXR — XR analytics and telemetry library.
+─────────┼─────────────────────────────┼──────────────────────────────────────
+2017–22  │ Software Engineer II        │ Rapid7
+         │   Core engine dev for AppSpider. 7 patents filed. Chrome AppSec plugin.
+─────────┼─────────────────────────────┼──────────────────────────────────────
+2015–17  │ Founder & CTO               │ Zedvalley
+         │   Co-founded digital solutions company. Incubated at Kerala Startup Mission.
+```
 
 ---
 
@@ -79,6 +113,8 @@ Text prompt → production iOS & Android app. Backend, database, and UI generate
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -86,6 +122,8 @@ Text prompt → production iOS & Android app. Backend, database, and UI generate
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
