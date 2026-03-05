@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-██╗    ██╗██╗██████╗  █████╗ ██╗      ██████╗ ██████╗ ██████╗ ███████╗
-██║    ██║██║██╔══██╗██╔══██╗██║     ██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║ █╗ ██║██║██████╔╝███████║██║     ██║     ██║   ██║██║  ██║█████╗  
-██║███╗██║██║██╔══██╗██╔══██║██║     ██║     ██║   ██║██║  ██║██╔══╝  
-╚███╔███╔╝██║██║  ██║██║  ██║███████╗╚██████╗╚██████╔╝██████╔╝███████╗
- ╚══╝╚══╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
-
-### Jijo John · Founder · Inventor · Pilot (240+ hrs)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=viralcode&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Jijo%20John%20·%20Founder%20·%20Inventor%20·%20Pilot%20(240%2B%20hrs)&descAlignY=62&descSize=18" width="100%" />
 
 [![Website](https://img.shields.io/badge/jijojohn.me-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jijojohn.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-john-44169724/)
@@ -22,7 +13,7 @@
 
 ## 🚀 What I Build
 
-I build things that shouldn't exist yet — AI operating systems, self-extensible agents, and platforms that turn a text prompt into a production app. 7x US Patent holder. Pilot. Founder.
+I build things that probably shouldn't exist yet. AI operating systems, self-extensible agents, platforms that turn a text prompt into a shipping app. When I'm not coding I'm flying — 240+ hours in the cockpit. 7x US patent holder.
 
 ---
 
@@ -35,7 +26,7 @@ I build things that shouldn't exist yet — AI operating systems, self-extensibl
 ### 🖥️ [vib-OS](https://github.com/viralcode/vib-OS)
 **World's First Vibecoded AI Operating System**
 
-A fully vibe-coded kernel & OS featuring a custom GUI, virtual file system, networking stack, and Doom — built entirely through AI-assisted development.
+A fully vibe-coded kernel & OS — custom GUI, virtual file system, networking stack, and Doom. Built entirely through AI-assisted development.
 
 ![Stars](https://img.shields.io/github/stars/viralcode/vib-OS?style=flat-square&color=a855f7&label=⭐%20Stars)
 ![Forks](https://img.shields.io/github/forks/viralcode/vib-OS?style=flat-square&color=6366f1&label=🍴%20Forks)
@@ -48,7 +39,7 @@ A fully vibe-coded kernel & OS featuring a custom GUI, virtual file system, netw
 ### 🐋 [OpenWhale](https://github.com/viralcode/openwhale)
 **Self-Extensible Multi-Agent Assistant**
 
-8 AI providers · 40+ tools · 6 messaging channels · Browser automation · Self-extension system · Native macOS app.
+8 AI providers · 40+ built-in tools · 6 messaging channels · browser automation · self-extension system. Ships as a native macOS app.
 
 ![Stars](https://img.shields.io/github/stars/viralcode/openwhale?style=flat-square&color=3b82f6&label=⭐%20Stars)
 ![Forks](https://img.shields.io/github/forks/viralcode/openwhale?style=flat-square&color=3b82f6&label=🍴%20Forks)
@@ -63,7 +54,7 @@ A fully vibe-coded kernel & OS featuring a custom GUI, virtual file system, netw
 ### 🤖 [TensorAgent OS](https://github.com/viralcode/tensoragentos)
 **AI-Native Linux Distribution**
 
-An AI OS powered by OpenWhale. Glassmorphic QML shell, agentic loop with MCP tool integration, native app embedding, and a fully managed AI desktop.
+An AI OS powered by OpenWhale. Glassmorphic QML shell, agentic MCP loop, native app embedding, and a fully managed AI desktop experience.
 
 `QML` `Linux` `AI OS` `OpenWhale` `Wayland`
 
@@ -73,7 +64,7 @@ An AI OS powered by OpenWhale. Glassmorphic QML shell, agentic loop with MCP too
 ### 📱 [Area30](https://area30.app)
 **Build Apps in Minutes**
 
-Turn text prompts into fully functional iOS & Android apps. One-shot generation creates your backend, database, and UI instantly. 1,000+ developers on waitlist.
+Text prompt → production iOS & Android app. Backend, database, and UI generated in one shot. 1,000+ developers on waitlist.
 
 `React Native` `AI` `Expo` `Full-Stack`
 
@@ -118,23 +109,9 @@ Turn text prompts into fully functional iOS & Android apps. One-shot generation 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=viralcode&show_icons=true&theme=dark&bg_color=050505&border_color=1f1f1f&icon_color=a855f7&text_color=e5e5e5&title_color=3b82f6&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralcode&layout=compact&theme=dark&bg_color=050505&border_color=1f1f1f&text_color=e5e5e5&title_color=3b82f6&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=viralcode&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=a855f7&text_color=c9d1d9&title_color=58a6ff&hide_border=false&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralcode&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&hide_border=false&langs_count=6" />
 
 </div>
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/viralcode/viralcode/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-*Building the future, one commit at a time.*
-
-**[jijojohn.me](https://jijojohn.me)** · **[area30.app](https://area30.app)**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
