@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/badge/jijojohn.me-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jijojohn.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jijo-john-44169724/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jijojohnz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jijojohn@area30.app)
 
 </div>
@@ -142,15 +141,5 @@ PRESENT  │ Founder                     │ Area30
 | [US-11201892-B1](https://patents.google.com/patent/US11201892B1/en) | Enhanced Crawling V1 | Data Retrieval |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=viralcode&theme=dark&background=0d1117&border=30363d&stroke=a855f7&ring=58a6ff&fire=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=viralcode&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
