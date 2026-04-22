@@ -12,7 +12,7 @@
 
 ## 🚀 What I Build
 
-I build things that probably shouldn't exist yet. AI operating systems, self-extensible agents, platforms that turn a text prompt into a shipping app. When I'm not coding I'm flying — 240+ hours in the cockpit. 7x US patent holder.
+I build things that probably shouldn't exist yet. AI operating systems, self-extensible agents, platforms that turn a text prompt into a shipping app. When I'm not coding I'm flying — 240+ hours in the cockpit. 7x US patent holder.  Ex auth0, Okta, Rapid7
 
 ---
 
@@ -74,9 +74,6 @@ Text prompt → production iOS & Android app. Backend, database, and UI generate
 
 ---
 
- Ex auth0, Okta, Rapid7
-
----
 
 ## 📜 Patents (7x US Patent Holder)
 
