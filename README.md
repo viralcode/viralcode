@@ -71,40 +71,9 @@ Text prompt → production iOS & Android app. Backend, database, and UI generate
 </tr>
 </table>
 
----
-
-## 🏢 Ventures
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 📱 **[Area30](https://area30.app)** | Turn text prompts into native iOS & Android apps. One-shot generation of backend, database, and UI. | 🟢 Waitlist Open |
-| 💻 **[Syntax8](https://syntax8.com)** | Building software the way it should be built: clear, clean, and without drama. Custom apps and AI features for business growth. | 🟢 Active |
-| 📡 **[SocialSignal AI](https://socialsignalai.com)** | AI social intelligence that turns conversations into leads. Scaled to 100+ customers in 60 days. 300+ Product Hunt followers. | 🟢 Active |
-| ✉️ **[MyWavelength](https://mywavelength.email)** | The future of email, supercharged by AI. Built for Gmail users who want a smarter, cleaner inbox. | 🟢 Active |
-| 🔐 **[Pastezen](https://pastezen.com)** | Share code and text securely. E2E encryption, no character limits, real-time collaboration. | 🟢 Active |
-| 🔍 **LvlUp Ventures** | Senior Venture Scout. Sourcing early-stage startups for top-tier VCs and investors. | 🟢 2025 |
 
 ---
-
-## 💼 Experience
-
-```
-PRESENT  │ Founder                     │ Area30
-         │   Turning text into apps. One-shot generation of full-stack iOS & Android apps.
-─────────┼─────────────────────────────┼──────────────────────────────────────
-2025     │ Software Engineer (Contract)│ Auth0 / Okta
-         │   Infrastructure and authentication on the world-famous Auth0 platform.
-─────────┼─────────────────────────────┼──────────────────────────────────────
-2023–25  │ Software Contractor         │ informXR
-         │   Developed iXRLibForWebXR — XR analytics and telemetry library.
-─────────┼─────────────────────────────┼──────────────────────────────────────
-2017–22  │ Software Engineer II        │ Rapid7
-         │   Core engine dev for AppSpider. 7 patents filed. Chrome AppSec plugin.
-─────────┼─────────────────────────────┼──────────────────────────────────────
-2015–17  │ Founder & CTO               │ Zedvalley
-         │   Co-founded digital solutions company. Incubated at Kerala Startup Mission.
-```
-
+ Ex auth0, Okta, Rapid7
 ---
 
 ## 🧠 Tech Stack
