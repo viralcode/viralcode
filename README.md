@@ -58,16 +58,6 @@ An AI OS powered by OpenWhale. Glassmorphic QML shell, agentic MCP loop, native 
 `QML` `Linux` `AI OS` `OpenWhale` `Wayland`
 
 </td>
-<td width="50%" valign="top">
-
-### 📱 [Area30](https://area30.app)
-**Build Apps in Minutes**
-
-Text prompt → production iOS & Android app. Backend, database, and UI generated in one shot. 1,000+ developers on waitlist.
-
-`React Native` `AI` `Expo` `Node.js`
-
-</td>
 </tr>
 </table>
 
